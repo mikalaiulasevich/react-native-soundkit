@@ -1,0 +1,3 @@
+[submodule "package/oboe"]
+	path = package/oboe
+	url = https://github.com/google/oboe.git

@@ -1,6 +1,6 @@
 # Standard
 BasedOnStyle: LLVM
-Standard: Cpp14
+Standard: Cpp17
 
 # Indentation
 IndentWidth: 2

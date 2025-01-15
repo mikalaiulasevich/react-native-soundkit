@@ -4,7 +4,7 @@ package = JSON.parse(File.read(File.join(__dir__, "package.json")))
 folly_compiler_flags = '-DFOLLY_NO_CONFIG -DFOLLY_MOBILE=1 -DFOLLY_USE_LIBCPP=1 -Wno-comma -Wno-shorten-64-to-32'
 
 Pod::UI.puts "[react-native-soundkit] Thank you for using react-native-soundkit 🎵"
-Pod::UI.puts "[react-native-soundkit] If you enjoy using react-native-soundkit, please consider supporting the project: https://github.com/mikalaiulasevich/react-native-soundkit"
+Pod::UI.puts "[react-native-soundkit] If you enjoy using react-native-soundkit, please consider supporting the project: https://github.com/sponsors/mikalaiulasevich"
 
 Pod::Spec.new do |s|
   s.name         = "react-native-soundkit"
